@@ -1,0 +1,12 @@
+name: AdvancedRank
+version: 1.0
+author: UCS
+main: fr.ucs.advancedrank.Main
+
+commands:
+  seerank:
+    description: Voir le grade d'un joueur
+  setrank:
+    description: Modifier le grade d'un joueur
+  listrank:
+    description: Voir la liste des grades.
